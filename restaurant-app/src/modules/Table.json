@@ -1,0 +1,162 @@
+[
+    {
+        "tableNumber": 1,
+        "chairCount": 4,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 2,
+        "chairCount": 2,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 3,
+        "chairCount": 6,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 4,
+        "chairCount": 4,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 5,
+        "chairCount": 8,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 6,
+        "chairCount": 6,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 7,
+        "chairCount": 2,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 8,
+        "chairCount": 4,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 9,
+        "chairCount": 6,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    },
+    {
+        "tableNumber": 10,
+        "chairCount": 8,
+        "serviceTime": [
+            "1 PM",
+            "2 PM",
+            "3 PM",
+            "4 PM",
+            "5 PM",
+            "6 PM",
+            "7 PM",
+            "8 PM",
+            "9 PM",
+            "10 PM"
+        ]
+    }
+]
