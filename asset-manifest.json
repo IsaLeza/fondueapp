@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fondueapp/static/css/main.44f8b8b5.css",
-    "main.js": "/fondueapp/static/js/main.35fed483.js",
+    "main.js": "/fondueapp/static/js/main.c4248f9d.js",
     "static/media/IGLogo.png": "/fondueapp/static/media/IGLogo.a40650d475851e69bd54.png",
     "static/media/Fondue.jpg": "/fondueapp/static/media/Fondue.27b25188b23d8c18fceb.jpg",
     "static/media/Carte.png": "/fondueapp/static/media/Carte.da13161372a30b0b3e2a.png",
@@ -9,10 +9,10 @@
     "static/media/Logo.jpg": "/fondueapp/static/media/Logo.b26178ffc6034caa9bff.jpg",
     "index.html": "/fondueapp/index.html",
     "main.44f8b8b5.css.map": "/fondueapp/static/css/main.44f8b8b5.css.map",
-    "main.35fed483.js.map": "/fondueapp/static/js/main.35fed483.js.map"
+    "main.c4248f9d.js.map": "/fondueapp/static/js/main.c4248f9d.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.35fed483.js"
+    "static/js/main.c4248f9d.js"
   ]
 }
