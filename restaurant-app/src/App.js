@@ -29,11 +29,11 @@ import IGLogo from "./modules/images/IGLogo.png"
 
   function App() {
     return(
-      <BrowserRouter>
+      <BrowserRouter basename="/fondueapp">
       <NavBar />
-        <Routes>
+        <Routes >
           /* Public Routes */
-          <Route path="/" element={<Main />}></Route>
+          <Route exact path="/fondueapp" element={<Main />}></Route>
           <Route path="/menu" element={<Menu />}></Route>
           <Route path="/booking" element={<RestaurantReservationForm />}></Route>
           <Route path="/user/login" element={<Login />}></Route>
@@ -55,7 +55,7 @@ import IGLogo from "./modules/images/IGLogo.png"
     return (
     <div>
       <Navbar color="faded" light>
-        <NavbarBrand href="/">
+        <NavbarBrand href="/fondueapp">
           <img
             alt="logo"
             src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/15ebfb18806393.5603f1b61f3e6.jpg"
@@ -94,7 +94,7 @@ const Footer = () => {
           <a href="#"><img style={{width:"3rem"}} src={IGLogo} alt="Instagram" /></a>
         </div>
         <ul style={{listStyle:"none"}}>
-          <li><a style={{color:"#FFF"}} href="/">Home</a></li>
+          <li><a style={{color:"#FFF"}} href="/fondueapp">Home</a></li>
           <li><a style={{color:"#FFF"}} href="menu">Menu</a></li>
           <li><a style={{color:"#FFF"}} href="booking">Book a table</a></li>
           <li><a style={{color:"#FFF"}} href="user/login">Log In</a></li>
