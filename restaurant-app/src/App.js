@@ -33,7 +33,7 @@ import IGLogo from "./modules/images/IGLogo.png"
       <NavBar />
         <Routes >
           /* Public Routes */
-          <Route path="/" element={<Main />}></Route>
+          <Route path="/fondueapp" element={<Main />}></Route>
           <Route path="/menu" element={<Menu />}></Route>
           <Route path="/booking" element={<RestaurantReservationForm />}></Route>
           <Route path="/user/login" element={<Login />}></Route>
